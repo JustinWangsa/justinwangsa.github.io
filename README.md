@@ -1,6 +1,6 @@
 # 🌐 Justin Wangsa — Personal Portfolio
 
-Welcome to the repository for my personal portfolio website — [justinwangsa.github.io](https://justinwangsa.github.io).  
+Welcome to the repository for my first personal portfolio website — [justinwangsa.github.io](https://justinwangsa.github.io).  
 This site showcases my projects, skills, and experience in **Computer Science**, designed with a modern, responsive layout.
 
 ---
